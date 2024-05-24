@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UvencoTestApp</string>
+    <string name="bt_ok">OK</string>
+    <string name="error">Error</string>
+    <string name="header_name">RUNERO Touch</string>
+    <string name="lang_ru">RU</string>
+    <string name="temperature">%1$s&#xb0;</string>
+    <string name="item_name">Наименование</string>
+    <string name="item_price">Цена</string>
+    <string name="item_sale_for_free">Продавать бесплатно</string>
+    <string name="changes_saved">Изменения сохранены!</string>
+    <string name="changes_not_saved">Изменения не сохранены!</string>
+</resources>
